@@ -10,7 +10,7 @@
 5. Type: `echo foo > foo` to make a file called `foo*`
 6. Type: `echo bar > bar` to make a file called `bar*`
 7. Type: `git init` to initalize `git`
-8. Type: `git add ` to add everything
+8. Type: `git add .` to add everything
 9. Type: `git commit -m "first commit"` to create a commit
 10. Type: `git remote add origin WhateverName` to create an origin to `push` to
 11. Type: `git push -u origin master` to `push` to the repo
